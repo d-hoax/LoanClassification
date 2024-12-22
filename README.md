@@ -15,7 +15,16 @@ This repository contains the code and documentation for a Machine Learning model
 ---
 
 ## Project Structure
-
+```bash
+├── code
+│   └── loan-eligibility-data-pre-processing-and-eda.ipynb
+├── data
+│   ├── 
+├── README.md
+└── artifacts
+    └── FinalSolutionSlideDeckpptx.pptx
+    └── Solution Approach Document.pdf
+```
 ---
 
 ## Overview
